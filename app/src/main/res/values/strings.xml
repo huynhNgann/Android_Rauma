@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">StoreRauMa App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="rau_ma_mix_app">Rau Má Mix App</string>
+    <string name="welcome_to_rau_ma_mix">Welcome to Rau Ma Mix</string>
+    <string name="ho_ten">Họ tên</string>
+    <string name="email">Email</string>
+    <string name="mat_khau">Mật khẩu</string>
+    <string name="dang_ki">Đăng Kí</string>
+    <string name="dang_nhap">Đăng Nhập</string>
+    <string name="ban_co_muon_dk_khong">Bạn có muốn đăng kí không?</string>
+    <string name="ten_dang_nhap">Tên đăng nhập</string>
+    <string name="ban_co_tk_chua">Bạn có tài khoản chưa?</string>
+    <string name="trang_chu">Trang Chủ</string>
+    <string name="do_uong">Đồ uống</string>
+    <string name="yeu_thich">Yêu thích</string>
+    <string name="gio_hang">Giỏ hàng</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_gmail_com">user@gmail.com</string>
+    <string name="huynh_ngan">Huyỳn Ngân</string>
+    <string name="thoat">Thoát</string>
+    <string name="tim_kiem">Tìm kiếm</string>
+    <string name="hi_">Hi Ngân</string>
+    <string name="banh_trang_mix_pho_mai">Bánh tráng mix phô mai</string>
+    <string name="_6_00_23_00">6:00- 23:00</string>
+</resources>
